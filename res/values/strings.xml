@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">poor Gmail Notifier plugin</string>
+    <!-- 
+    	The following strings needs to be defined in order for the Plugin to function.
+    -->
+    <string name="pluginname">poor Gmail Notifier</string>
+    <string name="intent_preferences">jp.ddo.dekuyou.liveview.plugins.gmail.PREFERENCES</string>
+    <string name="intent_service">jp.ddo.dekuyou.liveview.plugins.gmail.gmailpluginservice</string>
+    <string name="application_description">Extends:com.sonyericsson.extras.liveview</string>
+    <string name="subject">subject</string>
+    <string name="ConfirmTitle">more Notification.</string>
+    <string name="ConfirmMessage">If poor Gmail Notifier 2 is a summary of the notified body.</string>
+    <string name="ConfirmYes">Yes</string>
+    <string name="ConfirmNo">No</string>
+</resources>

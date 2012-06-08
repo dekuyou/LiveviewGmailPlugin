@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 
+    	The following strings needs to be defined in order for the Plugin to function.
+    -->
+    <string name="subject">件名</string>
+    <string name="ConfirmTitle">さらにメール本文も通知を受けたいですか？</string>
+    <string name="ConfirmMessage">poor Gmail Notifier 2 では、本文の概要を通知することができます。</string>
+    <string name="ConfirmYes">はい</string>
+    <string name="ConfirmNo">いいえ</string>
+</resources>
